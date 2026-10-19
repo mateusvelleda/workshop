@@ -133,7 +133,7 @@ and what it does to the workshop and to its interface connections:
 
 .. list-table::
    :header-rows: 1
-   :widths: 15 30 30 25
+   :widths: 20 30 30 20
 
    * - Command
      - Use case
